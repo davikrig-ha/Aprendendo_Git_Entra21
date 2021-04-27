@@ -1,0 +1,22 @@
+hierarquia de pastas e21
+
+davi.luiz
+dev
+
+comandos basicos git 
+
+entrar na pasta 
+cd c:/davi.luiz/dev
+
+voltar pasta
+c.. 
+
+ver conteudo 
+ls 
+
+ver status da pasta 
+git status
+
+adicionar arquivo no git 
+
+git add "file" .txt ou outros
