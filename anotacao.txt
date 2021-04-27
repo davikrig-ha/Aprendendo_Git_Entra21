@@ -19,4 +19,18 @@ git status
 
 adicionar arquivo no git 
 
-git add "file" .txt ou outros
+git add "file" .txt ou outros 
+
+restaurar arquivo 
+"git restore --staged <file>..."
+
+adicionar arquivo na nuvem 
+
+ git commit -m 'arquivo de anotacao' 
+
+empurrar aequivo para a nuvem 
+
+ git push 
+
+
+
