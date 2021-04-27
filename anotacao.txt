@@ -35,7 +35,16 @@ empurrar aequivo para a nuvem
 
 -------------------------------------------
 
-passo a passo para enviar um commit para o repositorio com comandos 
+passo a passo para enviar um commit para o repositorio com comandos  
+
+git status 
+
+depois ponho o git add 'file' .txt 
+
+e depois eu para enviar o arquivo ponho git commit m- 'exemplo'
+
+e para empurrar o arquivo git push
+login no git hub.
 
 
 
