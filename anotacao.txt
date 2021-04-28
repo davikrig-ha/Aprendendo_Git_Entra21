@@ -47,4 +47,9 @@ e para empurrar o arquivo git push
 login no git hub.
 
 
+-------------------------------------------
 
+credenciais 
+
+git config --global --unset user.name
+git config --global --unset user.email
