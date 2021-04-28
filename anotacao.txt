@@ -33,7 +33,7 @@ empurrar aequivo para a nuvem
  git push  
 
 
--------------------------------------------
+------------------------------------------
 
 passo a passo para enviar um commit para o repositorio com comandos  
 
