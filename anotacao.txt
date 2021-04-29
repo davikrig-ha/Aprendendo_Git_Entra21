@@ -52,4 +52,7 @@ login no git hub.
 credenciais 
 
 git config --global --unset user.name
-git config --global --unset user.email
+git config --global --unset user.email 
+
+git checkout -b 'nome branch'        criar branch
+git checkout 'branch'         mudar de branch
