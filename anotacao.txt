@@ -60,4 +60,6 @@ git checkout para checar as brants.
 
 git checkout -b para criar uma brant.
 
-tab para correção de palavras.
+tab para correção de palavras. 
+
+ git push --set-upstream origin a100 para cria branch na nuvem
