@@ -52,4 +52,12 @@ login no git hub.
 credenciais 
 
 git config --global --unset user.name
-git config --global --unset user.email
+git config --global --unset user.email 
+
+-----------------------------------
+
+git checkout para checar as brants.
+
+git checkout -b para criar uma brant.
+
+tab para correção de palavras.
