@@ -54,5 +54,17 @@ credenciais
 git config --global --unset user.name
 git config --global --unset user.email 
 
+<<<<<<< HEAD
 git checkout -b 'nome branch'        criar branch
 git checkout 'branch'         mudar de branch
+=======
+-----------------------------------
+
+git checkout para checar as brants.
+
+git checkout -b para criar uma brant.
+
+tab para correção de palavras. 
+
+ git push --set-upstream origin a100 para cria branch na nuvem
+>>>>>>> A100
